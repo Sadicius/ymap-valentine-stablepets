@@ -1,4 +1,4 @@
-# Cazadores de Dados
+# Cazadores de Dados [HDRP]
 - discord : https://discord.com/invite/AdgPyGfEJY
 - youtube : https://www.youtube.com/@sadicius
 - github : https://github.com/Sadicius
